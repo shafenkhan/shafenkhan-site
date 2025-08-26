@@ -1,0 +1,32 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Deployment files
+deploy-*/
+.deploy-config
+
+# Backup files
+*.bak
+*~
+*.swp
+
+# Logs
+*.log
+error_log
+access_log
+
+# Sensitive files
+.env
+.env.local
+config.php
+
+# Temporary files
+tmp/
+temp/
+cache/

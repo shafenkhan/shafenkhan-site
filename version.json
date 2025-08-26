@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "releaseDate": "2025-08-26",
+  "status": "production",
+  "description": "Full TREC compliance and calculator integration",
+  "changes": {
+    "added": [
+      "TREC compliance system",
+      "Calculator suite integration",
+      "Professional homepage redesign",
+      "Blog system with SEO",
+      "Contact forms with lead capture"
+    ],
+    "updated": [
+      "Complete design overhaul",
+      "Mobile responsiveness",
+      "SEO optimization",
+      "Navigation structure"
+    ],
+    "fixed": [
+      "License display consistency",
+      "Contact information accuracy",
+      "Cross-browser compatibility"
+    ]
+  },
+  "deployment": {
+    "lastDeployed": null,
+    "environment": "production",
+    "url": "https://shafenkhan.com"
+  }
+}

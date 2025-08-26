@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://shafenkhan.com/</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Real Estate Section -->
+    <url>
+        <loc>https://shafenkhan.com/real-estate/</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://shafenkhan.com/real-estate/faq.php</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Projects -->
+    <url>
+        <loc>https://shafenkhan.com/projects/</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Blog -->
+    <url>
+        <loc>https://shafenkhan.com/blog/</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://shafenkhan.com/blog/the-practice-consulting-os.php</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://shafenkhan.com/blog/dfw-real-estate-operating-system.php</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Contact -->
+    <url>
+        <loc>https://shafenkhan.com/contact/</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Labs/Calculators -->
+    <url>
+        <loc>https://shafenkhan.com/labs/</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://shafenkhan.com/ob-calculator.html</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://shafenkhan.com/compound-interest.html</loc>
+        <lastmod>2025-08-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+</urlset>
