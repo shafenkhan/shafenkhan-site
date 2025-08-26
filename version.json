@@ -24,7 +24,7 @@
     ]
   },
   "deployment": {
-    "lastDeployed": null,
+    "lastDeployed": "2025-08-26T15:16:00Z",
     "environment": "production",
     "url": "https://shafenkhan.com"
   }
